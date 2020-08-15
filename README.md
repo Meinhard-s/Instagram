@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Pure-L0G1C/Instagram)](https://repl.it/github/Pure-L0G1C/Instagram)
 # Instagram Bruter
 
 [![Version](https://img.shields.io/badge/Version-v2.1.1-blue)]()
